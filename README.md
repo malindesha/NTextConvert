@@ -1,4 +1,5 @@
-NTextConvert
+NTextConvert by JMMS Karunarathne
+
 Every .net developer needs to restrict users to type only numeric data in TextBox at some point. 
 for this developers should make their own class or 3rd party textbox components for their .net application. 
 in my more than 15 years of developing carrier, I have developed many .NET applications. 
